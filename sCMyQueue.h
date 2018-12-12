@@ -28,6 +28,7 @@ public:
 		return true;
 	}
 	
+	
 	//2.销毁队列
 	void UnInitQueue()
 	{
